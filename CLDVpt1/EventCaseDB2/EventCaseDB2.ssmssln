@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EventCaseDB2", "EventCaseDB2\EventCaseDB2.ssmssqlproj", "{743B2080-3A08-4654-8C3F-0668B6951B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743B2080-3A08-4654-8C3F-0668B6951B14}.Default|Default.ActiveCfg = Default
+		{6C372DBC-8DF0-4A41-9121-AA0E7B8E0B58}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF38DBA-2F9E-4C91-9FE9-4ADECEC9BA72}
+	EndGlobalSection
+EndGlobal
