@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XFG1zmR01Q=",
+  "dgSpecHash": "Zm65J6ztdLQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CLDVpt1\\CLDVpt1\\CLDVpt1.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CldvPt2\\CLDVpt1\\CLDVpt1\\CLDVpt1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

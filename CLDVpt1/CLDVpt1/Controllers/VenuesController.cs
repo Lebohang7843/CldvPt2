@@ -12,8 +12,8 @@ namespace CLDVpt1.Controllers
     {
         private async Task<string> UploadImageToBlobAsync(IFormFile imageFile)
         {
-            var connectionString = "DefaultEndpointsProtocol=https;AccountName=cldv;AccountKey=ZFh2xsl7WPj02lKiEuv1n3IrQixNQMpOphn0NNk62DlErBmeu1DxElB9yq+KB7fz1VvSGh18VSGq+ASt73ODoQ==;EndpointSuffix=core.windows.net";
-            var containerName = "cldvpt1";
+            var connectionString = "DefaultEndpointsProtocol=https;AccountName=cldvpt3;AccountKey=etNDNS28Ro9fa1xpHkP6/uVg0aF4zcwpZZwd6/UV6GNuTougJE6YEQYbLop+iwj8I5NVipo/k7nE+AStMpxXoQ==;EndpointSuffix=core.windows.net";
+            var containerName = "cldvpt3";
 
             var blobServiceClient = new BlobServiceClient(connectionString);
             var containerClient = blobServiceClient.GetBlobContainerClient(containerName);
